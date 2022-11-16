@@ -1,0 +1,67 @@
+{
+  "characters" : {
+    "ryu": {
+      "prettyName": "Ryu",
+      "image": "https://i.imgur.com/gHkkXjn.jpg",
+      "notableMoves": [
+        "Shoryuken", "Tatsumaki Senpukyaku", "Hadoken"
+      ],
+      "throws": {
+        "fowardThrow": "Shoulder Throw",
+        "backThrow": "Somersault Throw"
+      },
+      "triggers": {
+        "vt1": "Denjin Renki",
+        "vt2": "Kakko Fubatsu"
+      },
+      "vSkills": {
+        "vs1": "Mind's Eye",
+        "vs2": "Thrust Strike"
+      },
+      "vReversal": "Hashogeki",
+      "vShift": "Fumikomi Jodan Kagizuki",
+      "uniqueAttacks": [
+        {
+          "moveName": "Collarbone Breaker"
+        },
+        {
+          "moveName": "Solar Plexus Strike"
+        },
+        {
+          "moveName": "Axe Kick"
+        },
+        {
+          "moveName": "Jodan Nirengeki"
+        },
+        {
+          "moveName": "Jodan Sanrengeki"
+        }
+      ],
+      "specialMoves": [
+        {
+          "moveName": "Hadoken"
+        },
+        {
+          "moveName": "Shoryuken"
+        },
+        {
+          "moveName": "Tatsumaki Senpukyaku"
+        },
+        {
+          "moveName": "Airborne Tatsumaki Senpukyaku"
+        },
+        {
+          "moveName": "Jodan Sokutou Geri"
+        },
+        {
+          "moveName": "Isshin"
+        }
+      ],
+      "criticalArts": {
+        "move": "Shinku Hadoken",
+        "vTriggerEnhancement": "Denjin Hadoken"
+      }
+      
+    }
+  }
+}
